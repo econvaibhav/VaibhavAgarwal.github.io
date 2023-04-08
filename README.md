@@ -1,3 +1,4 @@
+![My Personal Website](website.sample.png)
 # My Personal Website
 
 This website, created using simple HTML and CSS code and the Winbox JavaScript bundle, is my personal cyber lair. As a collection of my work, passions, interests, and ideas, it reflects my diverse range of interests and aspirations. I have taken inspiration from the Windows PowerShell terminal and the design has been inspired by Tiffany White.
